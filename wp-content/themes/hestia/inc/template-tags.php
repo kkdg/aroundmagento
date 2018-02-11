@@ -766,7 +766,7 @@ if ( ! function_exists( 'hestia_the_footer_content' ) ) :
 				<?php hestia_before_footer_widgets_trigger(); ?>
 				<div class="hestia-bottom-footer-content">
 					<?php
-					hesta_bottom_footer_content();
+//					hesta_bottom_footer_content();
 					?>
 				</div>
 				<?php hestia_after_footer_widgets_trigger(); ?>
