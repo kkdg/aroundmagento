@@ -1,0 +1,1087 @@
+# Translation of Themes - Hestia in Korean
+# This file is distributed under the same license as the Themes - Hestia package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-01-27 03:51:16+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ko_KR\n"
+"Project-Id-Version: Themes - Hestia\n"
+
+#. #-#-#-#-#  hestia.pot (Hestia 1.1.62)  #-#-#-#-#
+#. Description of the plugin/theme
+#: inc/features/feature-about-page.php:27
+msgid "Hestia is a modern WordPress theme for professionals. It fits creative business, small businesses (restaurants, wedding planners, sport/medical shops), startups, corporate businesses, online agencies and firms, portfolios, ecommerce (WooCommerce), and freelancers. It has a multipurpose one-page design, widgetized footer, blog/news page and a clean look, is compatible with: Flat Parallax Slider, Photo Gallery, Travel Map and Elementor Page Builder . The theme is responsive, WPML, Retina ready, SEO friendly, and uses Material Kit for design."
+msgstr "Hestia는 현대적인 전문가용 워드프레스 테마입니다. 레스코랑, 웨딩 플래너, 스포트/메디컬 샵과 같은 창의적의 소규모 비지니스에 적합합니다. 또한 스타트업, 기업, 온라인 에이전시, 포트폴리오, 이커머스(우커머스), 프리랜서에도 좋습니다. 다용도 원페이지 디자인이며 위젯화된 푸터, 블로그/뉴스 페이지가 있고 깨끗한 모양으로 Flat Parallax Slider, Photo Gallery, Travel Map 그리고 Elementor Page Builder와 호환됩니다. 테마는 반응형이고 WPML, 레티나 레디, SEO 친화적이면서 디자인을 위해 머티리얼 키드를 사용합니다."
+
+#: inc/features/feature-header-settings.php:45
+msgid "Enable Header Image Sitewide"
+msgstr "헤더 이미지를 사이트 전체에 활성화"
+
+#: inc/customizer.php:162 inc/features/feature-header-settings.php:31
+msgid "Header Background"
+msgstr "헤더 배경"
+
+#: vendor/codeinwp/themeisle-sdk/class-themeisle-sdk-endpoints.php:299
+msgid "Invalid %"
+msgstr "유효하지 않은 %"
+
+#: vendor/codeinwp/themeisle-sdk/class-themeisle-sdk-endpoints.php:238
+msgid "%s not found"
+msgstr "%s 찾을 수 없습니다"
+
+#: inc/typography/typography-settings.php:300
+#: inc/typography/typography-settings.php:436
+msgid "Content"
+msgstr "콘텐츠"
+
+#: inc/typography/typography-settings.php:175
+msgid "Posts & Pages"
+msgstr "글과 페이지"
+
+#: inc/features/feature-header-settings.php:153
+msgid "Enable Search in Menu"
+msgstr "메뉴에서 검색 활성화"
+
+#: inc/features/feature-general-settings.php:130
+msgid "Enable Scroll to Top"
+msgstr "상단으로 스크롤 활성화"
+
+#: functions.php:1072
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "검색 &hellip;"
+
+#: functions.php:1069
+msgctxt "label"
+msgid "Search for:"
+msgstr "검색 :"
+
+#: inc/customizer-page-editor/customizer-page-editor.php:26
+msgid "Save and close"
+msgstr "저장후 닫기"
+
+#. Template Name of the plugin/theme
+msgid "Page with Sidebar"
+msgstr "사이드바가 있는 페이지"
+
+#: functions.php:142 inc/features/feature-header-settings.php:89
+msgid "Menu"
+msgstr "메뉴"
+
+#. translators: 1 - link to customizer setting. 2 - 'customizer'
+#: inc/sections/hestia-blog-section.php:37
+msgid "Change this subtitle in the %s."
+msgstr "이 서브 타이틀은 %s에서 변경하세요."
+
+#. translators: 1 - link to customizer setting. 2 - 'customizer'
+#: inc/sections/hestia-big-title-section.php:112
+#: inc/sections/hestia-big-title-section.php:119
+msgid "Change in the %s"
+msgstr "%s에서 변경하기"
+
+#: inc/features/feature-big-title-section.php:130
+#: inc/features/feature-header-settings.php:170
+#: inc/features/feature-individual-layout.php:29
+msgid "Layout"
+msgstr "레이아웃"
+
+#: functions.php:682 functions.php:686 functions.php:690
+msgid "Second"
+msgstr "두번째"
+
+#: functions.php:142 functions.php:275
+#: inc/features/feature-header-settings.php:56
+#: inc/features/feature-header-settings.php:89
+msgid "Very Top Bar"
+msgstr "최상단 바"
+
+#: functions.php:276 inc/features/feature-header-settings.php:134
+msgid "Navigation"
+msgstr "내비게이션"
+
+#: inc/features/feature-header-settings.php:19
+msgid "Header Options"
+msgstr "헤더 옵션"
+
+#: inc/features/feature-general-settings.php:115
+msgid "Enable Sharing Icons"
+msgstr "공유 아이콘 활성화"
+
+#: inc/features/feature-navigation-tabs.php:40
+msgid "font size"
+msgstr "폰트 사이즈"
+
+#: inc/typography/typography-settings.php:99
+msgid "Body"
+msgstr "바디"
+
+#: inc/features/feature-navigation-tabs.php:31
+#: inc/typography/typography-settings.php:74
+#: inc/typography/typography-settings.php:99
+msgid "font family"
+msgstr "폰트 패밀리"
+
+#: inc/typography/typography-settings.php:74
+#: inc/typography/typography-settings.php:265
+msgid "Headings"
+msgstr "헤딩"
+
+#: inc/typography/typography-settings.php:128
+msgid "Font Subsets"
+msgstr "폰트 서브셋"
+
+#: inc/typography/typography-settings.php:43
+msgid "Typography"
+msgstr "글자"
+
+#: inc/customizer-font-selector/class/class-hestia-font-selector.php:81
+msgid "Google Fonts"
+msgstr "구글 폰트"
+
+#: inc/customizer-font-selector/class/class-hestia-font-selector.php:66
+msgid "Standard Fonts"
+msgstr "표준 폰트"
+
+#: inc/customizer-font-selector/class/class-hestia-font-selector.php:60
+#: inc/features/feature-individual-layout.php:54
+msgid "Default"
+msgstr "기본"
+
+#: inc/features/feature-about-page.php:169
+msgid "Display a frontpage section wherever you like by adding its shortcode in page or post content."
+msgstr "페이지나 글 콘텐츠에 단축코드를 추가해서 원하는 곳에 전면 페이지 영역 표시."
+
+#: inc/features/feature-about-page.php:168
+msgid "Shortcodes for each section"
+msgstr "각 영역에 대한 단축코드"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:36
+msgctxt "comments title"
+msgid "%1$s Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "%1$s개의 댓글"
+
+#. translators: %s: post title
+#: comments.php:32
+msgctxt "comments title"
+msgid "One comment"
+msgstr "하나의 댓글"
+
+#: inc/plugin-install/class-hestia-plugin-install-helper.php:116
+msgid "Activating "
+msgstr "활성화 "
+
+#: inc/plugin-install/class-hestia-plugin-install-helper.php:60
+msgid "Install and activate"
+msgstr "설치 및 활성화"
+
+#: inc/features/feature-contact-section.php:322
+msgid "In order to add a contact form to this section, you need to install the Pirate Forms plugin."
+msgstr "이 영역에 컨택트 폼을 추가하려면 Pirate Forms 플러그인을 설치해야 합니다."
+
+#: inc/sections/hestia-big-title-section.php:112
+#: inc/sections/hestia-big-title-section.php:119
+#: inc/sections/hestia-blog-section.php:37
+msgid "Customizer"
+msgstr "사용자 정의 하기"
+
+#: inc/features/feature-big-title-section.php:153
+#: inc/features/feature-big-title-section.php:154
+#: inc/features/feature-big-title-section.php:155
+#: inc/sections/hestia-big-title-section.php:125
+msgid "Change in the Customizer"
+msgstr "사용자 정의하기에서 변경"
+
+#: inc/features/feature-about-page.php:163
+#: inc/features/feature-theme-info-section.php:56
+msgid "The ability to reorganize your Frontpage Sections more easily and quickly."
+msgstr "자신의 전면 페이지 영역을 더 쉽고 빠르게 조정할 수 있는 기능."
+
+#: inc/features/feature-about-page.php:120
+#: inc/features/feature-about-page.php:122
+msgid "Go to the Customizer"
+msgstr "사용자 정의하기로 가기"
+
+#: inc/customizer.php:132
+msgid "Drag and drop panels to change the order of sections."
+msgstr "영역의 순서를 변경하려면 패널을 끌어놓기 하세요."
+
+#: inc/customizer-theme-info/class-hestia-customizer-theme-info.php:110
+msgid "The ability to reorganize your Frontpage sections more easily and quickly."
+msgstr "자신의 전면 페이지 영역을 더 쉽고 빠르게 조정할 수 있는 기능."
+
+#: inc/customizer-theme-info/class-hestia-control-upsell-theme-info.php:68
+msgid "PRO"
+msgstr "프로"
+
+#. Template Name of the plugin/theme
+msgid "Page Builder Full Width"
+msgstr "페이지 빌더 전체 폭"
+
+#. Template Name of the plugin/theme
+msgid "Page Builder Blank"
+msgstr "페이지 빌더 빈 페이지"
+
+#: inc/template-tags.php:1040
+msgid "This sidebar is active but empty. In order to use this layout, please add widgets in the sidebar"
+msgstr "이 사이드바는 활성이지만 비어있습니다. 이 레이아웃을 사용하려면 사이드바에 위젯을 추가하세요"
+
+#: inc/features/feature-general-settings.php:97
+msgid "Blog Sidebar Layout"
+msgstr "블로그 사이드바 레이아웃"
+
+#: inc/features/feature-general-settings.php:64
+#: inc/features/feature-individual-layout.php:57
+msgid "Right Sidebar"
+msgstr "우측 사이드바"
+
+#: inc/features/feature-general-settings.php:60
+#: inc/features/feature-individual-layout.php:56
+msgid "Left Sidebar"
+msgstr "좌측 사이드바"
+
+#: inc/features/feature-general-settings.php:56
+#: inc/features/feature-individual-layout.php:55
+msgid "Full Width"
+msgstr "전체폭"
+
+#: inc/features/feature-general-settings.php:78
+msgid "Page Sidebar Layout"
+msgstr "페이지 사이드바 레이아웃"
+
+#: functions.php:274
+msgid "WooCommerce Sidebar"
+msgstr "우커머스 사이드바"
+
+#. Template Name of the plugin/theme
+msgid "Fullwidth Template"
+msgstr "전체 폭 템플릿"
+
+#: ti-notifications/ti-about-page/class-themeisle-about-page.php:1051
+#: ti-notifications/ti-customizer-notify/class-themeisle-customizer-notify.php:170
+msgid "Activating"
+msgstr "활성화"
+
+#: template-parts/content-single.php:74
+msgid "Tags: "
+msgstr "태그: "
+
+#: template-parts/content-single.php:66
+msgid "Categories:"
+msgstr "카테고리:"
+
+#: template-parts/content-none.php:34
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "찾고 있는 것을 찾을 수 없는 것 같습니다. 검색이 도움될 수도 있습니다."
+
+#: template-parts/content-none.php:31
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "죄송합니다. 검색어와 일치하는 것이 없습니다. 다른 키워드로 다시 해보세요."
+
+#. translators: %1$s is Link to new post, %2$s is Get started here
+#: template-parts/content-none.php:25
+msgid "Get started here"
+msgstr "여기서 시작하세요"
+
+#. translators: %s is Link to new post
+#: template-parts/content-none.php:20
+msgid "Ready to publish your first post? %s."
+msgstr "첫 글을 발행할 준비가 되셨나요? %s"
+
+#. translators: %1$s is Time since post, %2$s is author Close tag
+#: template-parts/content-alternative.php:57 template-parts/content.php:69
+msgid "%1$s ago %2$s"
+msgstr "%1$s전 %2$s"
+
+#. translators: %1$s is Author name wrapped, %2$s is Time
+#: template-parts/content-alternative.php:48 template-parts/content.php:60
+msgid "By %1$s, %2$s"
+msgstr "글쓴이 %1$s, %2$s"
+
+#. translators: %s is Search query
+#: search.php:41
+msgid "Search Results for: %s"
+msgstr "검색 결과: %s"
+
+#. translators: %d is number of items
+#: inc/woocommerce/functions.php:67
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d 아이템"
+
+#: inc/woocommerce/functions.php:63 inc/woocommerce/functions.php:114
+msgid "View your shopping cart"
+msgstr "장바구니 보기"
+
+#: inc/template-tags.php:504
+msgid "Related Posts"
+msgstr "관련 글"
+
+#: inc/template-tags.php:437
+msgid "What's on your mind?"
+msgstr "무슨 생각을 하고 계신가요?"
+
+#: inc/template-tags.php:434
+msgid "Website"
+msgstr "웹사이트"
+
+#: inc/template-tags.php:433
+msgid "Email"
+msgstr "이메일"
+
+#: inc/template-tags.php:432
+msgid "Name"
+msgstr "이름"
+
+#. translators: %s is Link to login
+#: inc/template-tags.php:423
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "댓글을 달려면 <a href=\"%s\">로그인</a>해야 합니다."
+
+#: inc/template-tags.php:387
+msgid "Reply"
+msgstr "응답"
+
+#: inc/customizer-page-editor/class/class-hestia-page-editor.php:77
+#: inc/template-tags.php:376
+msgid "(Edit)"
+msgstr "(편집)"
+
+#. translators: %1$s is Date, %2$s is Time
+#: inc/template-tags.php:372
+msgid "&#183; %1$s at %2$s"
+msgstr "&#183; %1$s %2$s"
+
+#: inc/template-tags.php:269
+msgid "Previous page"
+msgstr "이전 페이지"
+
+#: inc/template-tags.php:268
+msgid "Next page"
+msgstr "다음 페이지"
+
+#. translators: %s is Category name
+#: inc/template-tags.php:210
+msgid "View all posts in %s"
+msgstr "%s의 모든 글 보기"
+
+#: functions.php:678 functions.php:682
+#: inc/sections/hestia-slider-section.php:154
+#: inc/sections/hestia-slider-section.php:163
+#: inc/sections/hestia-slider-section.php:172
+msgid "Button"
+msgstr "버튼"
+
+#: inc/sections/hestia-slider-section.php:153
+#: inc/sections/hestia-slider-section.php:162
+#: inc/sections/hestia-slider-section.php:171
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+msgstr "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+
+#: inc/sections/hestia-slider-section.php:152
+#: inc/sections/hestia-slider-section.php:161
+#: inc/sections/hestia-slider-section.php:170
+msgid "Lorem Ipsum"
+msgstr "Lorem Ipsum"
+
+#. translators: 1 - link to customizer setting. 2 - 'customizer'
+#: inc/sections/hestia-contact-section.php:36
+#: inc/sections/hestia-shop-section.php:40
+#: inc/sections/hestia-subscribe-section.php:36
+msgid "Change this subtitle in %s."
+msgstr "이 서브 타이틀은 %s에서 변경하세요."
+
+#: inc/sections/hestia-contact-section.php:36
+#: inc/sections/hestia-shop-section.php:40
+#: inc/sections/hestia-subscribe-section.php:36
+msgid "customizer"
+msgstr "사용자 정의 하기"
+
+#: inc/features/feature-theme-info-section.php:27
+msgid "View PRO Features"
+msgstr "프로 기능 보기"
+
+#: inc/features/feature-subscribe-section.php:76
+#: inc/sections/hestia-subscribe-section.php:41
+msgid "Subscribe to our Newsletter"
+msgstr "뉴스레터 구독하기"
+
+#: functions.php:272 inc/features/feature-subscribe-section.php:23
+#: inc/features/feature-subscribe-section.php:33
+msgid "Subscribe"
+msgstr "구독하기"
+
+#: inc/features/feature-navigation-tabs.php:192
+#: inc/features/feature-shop-section.php:63
+#: inc/sections/hestia-shop-section.php:45
+msgid "Products"
+msgstr "상품"
+
+#: inc/features/feature-shop-section.php:25
+#: inc/features/feature-shop-section.php:35
+msgid "Shop"
+msgstr "상점"
+
+#: inc/features/feature-general-settings.php:149
+msgid "If enabled, the theme will use a boxed layout."
+msgstr "활성화 되면 테마는 박스 레이아웃으로 사용됩니다."
+
+#: inc/features/feature-general-settings.php:148
+msgid "Boxed Layout"
+msgstr "박스 레이아웃"
+
+#: inc/features/feature-general-settings.php:45
+#: inc/features/feature-navigation-tabs.php:76
+#: inc/features/feature-navigation-tabs.php:111
+#: inc/features/feature-navigation-tabs.php:144
+#: inc/features/feature-navigation-tabs.php:181
+msgid "General Settings"
+msgstr "일반 설정"
+
+#: inc/features/feature-contact-section.php:160
+#: inc/features/feature-navigation-tabs.php:155
+msgid "Contact Content"
+msgstr "문의 콘텐츠"
+
+#: inc/features/feature-contact-section.php:133
+#: inc/features/feature-subscribe-section.php:115
+msgid "Instructions"
+msgstr "안내"
+
+#: inc/features/feature-contact-section.php:117
+msgid "Form Title"
+msgstr "폼 제목"
+
+#: inc/features/feature-contact-section.php:109
+#: inc/sections/hestia-contact-section.php:41
+msgid "Contact Us"
+msgstr "문의하기"
+
+#: inc/features/feature-contact-section.php:77
+#: inc/sections/hestia-contact-section.php:40
+msgid "Get in Touch"
+msgstr "연락주세요"
+
+#: inc/features/feature-contact-section.php:68
+#: inc/features/feature-subscribe-section.php:67
+msgid "Background Image"
+msgstr "배경 이미지"
+
+#: inc/features/feature-contact-section.php:23
+#: inc/features/feature-contact-section.php:33
+#: inc/features/feature-contact-section.php:318
+msgid "Contact"
+msgstr "컨택트"
+
+#: inc/features/feature-color-settings.php:33
+msgid "Accent Color"
+msgstr "포인트 색상"
+
+#: inc/features/feature-blog-section.php:99
+#: inc/features/feature-shop-section.php:103
+msgid "Number of Items"
+msgstr "아이템 수"
+
+#: inc/features/feature-blog-section.php:83
+#: inc/features/feature-contact-section.php:101
+#: inc/features/feature-shop-section.php:87
+#: inc/features/feature-subscribe-section.php:100
+#: inc/typography/typography-settings.php:403
+msgid "Section Subtitle"
+msgstr "영역 부제목"
+
+#: inc/features/feature-blog-section.php:67
+#: inc/features/feature-contact-section.php:85
+#: inc/features/feature-shop-section.php:71
+#: inc/features/feature-subscribe-section.php:84
+#: inc/typography/typography-settings.php:370
+msgid "Section Title"
+msgstr "영역 제목"
+
+#: inc/features/feature-blog-section.php:23
+#: inc/features/feature-blog-section.php:33
+#: inc/features/feature-blog-section.php:59
+#: inc/sections/hestia-blog-section.php:41
+msgid "Blog"
+msgstr "블로그"
+
+#: inc/features/feature-blog-section.php:75
+#: inc/features/feature-contact-section.php:93
+#: inc/features/feature-shop-section.php:79
+#: inc/features/feature-subscribe-section.php:92
+msgid "Change this subtitle in the Customizer"
+msgstr "이 서브 타이틀은 사용자 정의하기에서 변경하세요."
+
+#: inc/features/feature-big-title-section.php:112
+msgid "Button URL"
+msgstr "버튼 URL"
+
+#: functions.php:686 inc/features/feature-big-title-section.php:95
+msgid "Button text"
+msgstr "버튼 텍스트"
+
+#: inc/features/feature-big-title-section.php:41
+msgid "Big Title Background"
+msgstr "큰 제목 배경"
+
+#: inc/features/feature-big-title-section.php:21
+#: inc/typography/typography-settings.php:337
+msgid "Big Title Section"
+msgstr "큰 제목 영역"
+
+#: inc/features/feature-about-section.php:79
+#: inc/features/feature-about-section.php:98
+msgid "About Content"
+msgstr "콘텐츠 소개"
+
+#: inc/features/feature-about-section.php:56
+#: inc/features/feature-blog-section.php:51
+#: inc/features/feature-contact-section.php:51
+#: inc/features/feature-header-settings.php:72
+#: inc/features/feature-pagebuilder-frontpage.php:40
+#: inc/features/feature-shop-section.php:55
+#: inc/features/feature-subscribe-section.php:50
+msgid "Disable section"
+msgstr "영역 비활성화"
+
+#: inc/features/feature-about-section.php:28
+#: inc/features/feature-about-section.php:38
+msgid "About"
+msgstr "소개"
+
+#: inc/features/feature-about-page.php:287
+msgid "Recommended Plugins"
+msgstr "권장 플러그인"
+
+#. translators: s - ThemeIsle Companion
+#: inc/features/feature-about-page.php:282
+msgid "If you want to take full advantage of the options this theme has to offer, please install and activate %s."
+msgstr "이 테마가 제공하는 모든 옵션을 이용하려면 %s를 설치하고 활성화 하세요."
+
+#: inc/features/feature-about-page.php:254
+msgid "Makes your Contact section more engaging by creating a good-looking contact form. Interaction with your visitors has never been easier."
+msgstr "좋은 모양의 컨택트 폼을 만들어 컨택트 폼을 더욱 참여하도록 하세요. 방문자와의 상화 교감은 더 이상 쉬울 수 없습니다."
+
+#: inc/features/feature-about-page.php:247
+msgid "It is highly recommended that you install the companion plugin to have access to the Frontpage features, Team and Testimonials sections."
+msgstr "전면 페이지 기능, 팀, 추천 영역에 접근하려면 번들 플러그인을 설치할 것을 권장합니다."
+
+#: inc/features/feature-about-page.php:211
+#: inc/features/feature-about-page.php:243
+#: inc/features/feature-about-page.php:290
+msgid "Deactivate"
+msgstr "비활성화"
+
+#: inc/features/feature-about-page.php:210
+#: inc/features/feature-about-page.php:242
+#: inc/features/feature-about-page.php:289
+#: inc/plugin-install/class-hestia-plugin-install-helper.php:80
+msgid "Activate"
+msgstr "활성화"
+
+#: inc/features/feature-about-page.php:209
+#: inc/features/feature-about-page.php:241
+#: inc/features/feature-about-page.php:288
+msgid "Install and Activate"
+msgstr "설치 및 활성화"
+
+#: inc/features/feature-about-page.php:208
+msgid "Version: "
+msgstr "버전: "
+
+#: inc/features/feature-about-page.php:207
+msgid "Already activated"
+msgstr "이미 활성화 됨"
+
+#: inc/features/feature-about-page.php:199
+#: inc/features/feature-theme-info-section.php:57
+msgid "24/7 HelpDesk Professional Support"
+msgstr "24/7 헬프데스크 전문가 지원"
+
+#: inc/features/feature-about-page.php:198
+#: inc/features/feature-theme-info-section.php:49
+msgid "Quality Support"
+msgstr "품질 지원"
+
+#: inc/features/feature-about-page.php:181
+#: inc/features/feature-theme-info-section.php:53
+msgid "Change colors for the header overlay, header text and navbar."
+msgstr "헤더 오버레이, 헤더 텍스트, 내비게이션바의 색상 변경"
+
+#: inc/features/feature-about-page.php:180
+#: inc/features/feature-theme-info-section.php:45
+msgid "Fully Customizable Colors"
+msgstr "완전 사용자 정의 가능한 색상"
+
+#: inc/features/feature-about-page.php:175
+#: inc/features/feature-theme-info-section.php:52
+msgid "You will be able to add more content to your site header with an awesome slider."
+msgstr "굉장한 슬라이더로 사이트 헤더에 콘텐츠를 더 추가할 수 있습니다."
+
+#: inc/features/feature-about-page.php:174
+#: inc/features/feature-theme-info-section.php:44
+msgid "Header Slider"
+msgstr "헤더 슬라이더"
+
+#: inc/features/feature-about-page.php:157
+msgid "You can use any background image you want."
+msgstr "원하는 배경 이미지를 사용할 수 있습니다."
+
+#: inc/features/feature-about-page.php:156
+msgid "Background image"
+msgstr "배경 이미지"
+
+#: inc/features/feature-about-page.php:151
+msgid "Big title, Features, About, Team, Testimonials, Subscribe, Blog, Contact"
+msgstr "큰 타이틀, 기능, 소개, 팀, 추천, 구독하기, 블로그, 컨택트"
+
+#: inc/features/feature-about-page.php:145
+msgid "Ready for e-commerce. You can build an online store here."
+msgstr "이커머스 준비 완료. 여기서 온라인 상점을 만들 수 있습니다."
+
+#: inc/features/feature-about-page.php:144
+msgid "WooCommerce Compatible"
+msgstr "우커머스 호환"
+
+#: inc/features/feature-about-page.php:139
+msgid "Responsive layout. Works on every device."
+msgstr "반응형 레이아웃. 모든 기기에서 작동합니다."
+
+#: inc/features/feature-about-page.php:138
+msgid "Mobile friendly"
+msgstr "모바일 친화형"
+
+#. translators: s - theme name
+#: inc/features/feature-about-page.php:135
+msgid "Get %s now!"
+msgstr "지금 %s 받기!"
+
+#: inc/features/feature-about-page.php:121
+msgid "Using the WordPress Customizer you can easily customize every aspect of the theme."
+msgstr "워드프레스 사용자 정의하기를 사용하면 테마의 모든 면에서 쉽게 사용자 정의할 수 있습니다."
+
+#: inc/features/feature-about-page.php:103
+msgid "We have compiled a list of steps for you to take so we can ensure that the experience you have using one of our products is very easy to follow."
+msgstr "진행할 모든 과정을 종합했으므로 저의 상품을 이용하는 것이 따라하기 쉬울 것입니다."
+
+#: inc/features/feature-about-page.php:102
+#: inc/features/feature-about-page.php:104
+msgid "Recommended actions"
+msgstr "권장 작업"
+
+#: inc/features/feature-about-page.php:92
+msgid "In the documentation below you will find an easy way to build a great looking landing page using a drag-and-drop content builder plugin."
+msgstr "아래의 문서에서 끌어놓기 콘텐츠 빌더 플러그인을 사용해 보기 좋은 랜딩 페이지를 만드는 쉬운 방법을 찾을 수 있습니다."
+
+#: inc/features/feature-about-page.php:90
+msgid "Build a landing page with a drag-and-drop content builder"
+msgstr "끌어놓기 콘텐츠 빌더로 랜딩 페이지 만들기"
+
+#: inc/features/feature-about-page.php:83
+msgid "If you find yourself in a situation where everything on your site is running very slowly, you might consider having a look at the documentation below where you will find the most common issues causing this and possible solutions for each of the issues."
+msgstr "사이트의 모든 것이 아주 느려질 때 아래의 문서를 보시면 이러한 문제를 일으키는 가장 일반적인 원인을 찾을 수 있고 각 문제에 대해 해결책을 찾을 수 있습니다."
+
+#: inc/features/feature-about-page.php:81
+msgid "Speed up your site"
+msgstr "사이트 속도 높이기"
+
+#: inc/features/feature-about-page.php:75
+#: inc/features/feature-about-page.php:84
+#: inc/features/feature-about-page.php:93
+msgid "View how to do this"
+msgstr "하는 방법 보기"
+
+#: inc/features/feature-about-page.php:74
+msgid "If you want to make changes to the theme's files, those changes are likely to be overwritten when you next update the theme. In order to prevent that from happening, you need to create a child theme. For this, please follow the documentation below."
+msgstr "테마 파일을 변경하면 테마 업데이트 시 덮어쓰기가 됩니다. 이것을 방지하기 위해 자식테마를 만들어야 합니다. 아래의 문서를 따라해주세요."
+
+#: inc/features/feature-about-page.php:72
+msgid "Create a child theme"
+msgstr "자식 테마 만들기"
+
+#: inc/features/feature-about-page.php:65
+msgid "Want to get the gist on the latest theme changes? Just consult our changelog below to get a taste of the recent fixes and features implemented."
+msgstr "최근 테마 변경의 요약을 받길 원하시나요? 아래의 변경 기록을 참고하면 최근 수정내용과 기능 추가를 살펴볼 수 있습니다."
+
+#: inc/features/feature-about-page.php:57
+#: inc/features/feature-about-page.php:111
+msgid "Read full documentation"
+msgstr "전체문서 보기"
+
+#: functions.php:753 inc/features/feature-about-page.php:56
+#: inc/features/feature-about-page.php:112
+msgid "Need more details? Please check our full documentation for detailed information on how to use Hestia."
+msgstr "더 많은 상세가 필요하신가요? Hestia의 사용법에 관한 상세 정보가 있는 전체 문서를 알아보세요."
+
+#: inc/features/feature-about-page.php:47
+msgid "We want to make sure you have the best experience using Hestia, and that is why we have gathered all the necessary information here for you. We hope you will enjoy using Hestia as much as we enjoy creating great products."
+msgstr "Hestia를 사용해서 최고의 경험을 할 수 있을 것입니다. 저희가 여러분을 위해 모든 필요한 정보를 모아놓은 이유이빈다. 훌륭한 상품을 만들면서 느낀 즐거움을 Hestia를 이용하면서 즐겨보세요."
+
+#: inc/features/feature-about-page.php:45
+#: inc/features/feature-about-page.php:48
+msgid "Contact Support"
+msgstr "지원 문의하기"
+
+#: inc/features/feature-about-page.php:40
+msgid "Free vs PRO"
+msgstr "무료와 프로버전"
+
+#: inc/features/feature-about-page.php:39
+#: inc/features/feature-about-page.php:63
+#: inc/features/feature-about-page.php:66
+msgid "Changelog"
+msgstr "변경 기록"
+
+#: inc/features/feature-about-page.php:38
+msgid "Support"
+msgstr "지원"
+
+#: inc/features/feature-about-page.php:37
+msgid "Useful Plugins"
+msgstr "유용한 플러그인"
+
+#: inc/features/feature-about-page.php:36
+#: inc/features/feature-about-page.php:286
+msgid "Recommended Actions"
+msgstr "권장 작업"
+
+#: inc/features/feature-about-page.php:35
+msgid "Getting Started"
+msgstr "시작하기"
+
+#. translators: s - theme name
+#: inc/features/feature-about-page.php:25
+msgid "Welcome to %s! - Version "
+msgstr "%s에 오신 것을 환영합니다! - 버전 "
+
+#: functions.php:753 inc/features/feature-about-page.php:20
+#: inc/features/feature-about-page.php:22
+msgid "About Hestia"
+msgstr "Hestia 소개"
+
+#: inc/customizer.php:139
+msgid "Blog Settings"
+msgstr "블로그 설정"
+
+#: inc/customizer.php:131 inc/features/feature-about-page.php:150
+#: inc/typography/typography-settings.php:198
+msgid "Frontpage Sections"
+msgstr "전면 페이지 영역"
+
+#: inc/customizer.php:124 inc/features/feature-navigation-tabs.php:85
+msgid "Appearance Settings"
+msgstr "외모 설정"
+
+#: inc/customizer-theme-info/class-hestia-customizer-theme-info.php:109
+#: inc/features/feature-about-page.php:193
+#: inc/features/feature-theme-info-section.php:55
+msgid "A fully customizable pricing plans section."
+msgstr "완전 사용자 정의 가능한 요금제 영역."
+
+#: inc/customizer-theme-info/class-hestia-customizer-theme-info.php:108
+#: inc/features/feature-about-page.php:187
+#: inc/features/feature-theme-info-section.php:54
+msgid "Portfolio section with two possible layouts."
+msgstr "두 가지 레이아웃이 가능한 포트폴리오 영역."
+
+#: functions.php:1177
+#: inc/customizer-theme-info/class-hestia-customizer-theme-info.php:106
+#: inc/features/feature-theme-info-section.php:60
+msgid "Get the PRO version!"
+msgstr "프로 버전을 받으세요!"
+
+#: inc/customizer-theme-info/class-hestia-customizer-theme-info.php:102
+#: inc/features/feature-about-page.php:162
+#: inc/features/feature-theme-info-section.php:48
+msgid "Section Reordering"
+msgstr "섹션 순서 변경"
+
+#: inc/customizer-theme-info/class-hestia-customizer-theme-info.php:101
+#: inc/features/feature-about-page.php:192
+#: inc/features/feature-theme-info-section.php:47
+msgid "Pricing Plans Section"
+msgstr "요금제 영역."
+
+#: inc/customizer-theme-info/class-hestia-customizer-theme-info.php:100
+#: inc/features/feature-about-page.php:186
+#: inc/features/feature-theme-info-section.php:46
+msgid "Jetpack Portfolio"
+msgstr "Jetpack 포트폴리오"
+
+#: inc/customizer-theme-info/class-hestia-customizer-theme-info.php:83
+#: inc/features/feature-about-page.php:54
+#: inc/features/feature-about-page.php:113
+msgid "Documentation"
+msgstr "문서"
+
+#. translators: %s Path in plugin
+#: inc/customizer-subscribe-info/class-hestia-subscribe-info.php:93
+msgid "And then you need to navigate to its Settings, and use the following in the Subscription form:"
+msgstr "그런 다음 설정으로 가서 구독하기 폼에서 다음을 사용하세요:"
+
+#. translators: %s Path in plugin wrapped
+#: inc/customizer-subscribe-info/class-hestia-subscribe-info.php:85
+msgid "After installing the plugin, you need to navigate to %s and configure the plugin."
+msgstr "플러그인을 설치한 다음 %s로 가서 플러그인을 환경설정 해야 합니다."
+
+#: inc/customizer-subscribe-info/class-hestia-subscribe-info.php:77
+#: inc/features/feature-navigation-tabs.php:121
+msgid "SendinBlue plugin"
+msgstr "SendinBlue 플러그인"
+
+#. translators: %1$s is Path wrapped in <b>, %2$s is Plugin link
+#: inc/customizer-subscribe-info/class-hestia-subscribe-info.php:75
+msgid "The main content of this section is customizable in: %1$s. There you must add the \"SendinBlue Newsletter\" widget. But first you will need to install %2$s."
+msgstr "이 영역의 메인 콘텐츠는 %1$s에서 사용자 정의 할 수 있습니다. 그곳에서 \"SendinBlue 뉴스레터\" 위젯을 추가해야 합니다. 하지만 우선 %2$s를 설치해야 합니다."
+
+#. translators: %s is Path
+#: inc/customizer-subscribe-info/class-hestia-subscribe-info.php:68
+msgid "Customize > Widgets > Blog Subscribe Section"
+msgstr "사용자 정의하기 > 위젯 > 블로그 구독하기 영역"
+
+#. translators: %s is Path
+#: inc/customizer-subscribe-info/class-hestia-subscribe-info.php:59
+msgid "Customize > Widgets > Subscribe Section"
+msgstr "사용자 정의하기 > 위젯 > 구독하기 영역"
+
+#: inc/customizer-repeater/class/class-hestia-repeater.php:792
+#: inc/customizer-repeater/class/class-hestia-repeater.php:830
+msgid "Add Icon"
+msgstr "아이콘 추가"
+
+#: inc/customizer-repeater/class/class-hestia-repeater.php:787
+#: inc/customizer-repeater/class/class-hestia-repeater.php:824
+msgid "Remove Icon"
+msgstr "아이콘 제거"
+
+#: inc/customizer-repeater/class/class-hestia-repeater.php:756
+msgid "Social icons"
+msgstr "소셜 아이콘"
+
+#: inc/customizer-repeater/class/class-hestia-repeater.php:742
+msgid "None"
+msgstr "아니오"
+
+#: inc/customizer-repeater/class/class-hestia-repeater.php:737
+msgid "Image type"
+msgstr "이미지 타입"
+
+#: inc/customizer-repeater/class/class-hestia-repeater.php:724
+msgid "Upload Image"
+msgstr "이미지 업로드"
+
+#: inc/customizer-repeater/class/class-hestia-repeater.php:721
+#: inc/customizer-repeater/class/class-hestia-repeater.php:741
+msgid "Image"
+msgstr "이미지"
+
+#. translators: Fontawesome link with full list of icons available
+#: inc/customizer-repeater/class/class-hestia-repeater.php:685
+#: inc/customizer-repeater/class/class-hestia-repeater.php:763
+msgid "http://fontawesome.io/icons/"
+msgstr "http://fontawesome.io/icons/"
+
+#. translators: Fontawesome link with full list of icons available
+#: inc/customizer-repeater/class/class-hestia-repeater.php:683
+#: inc/customizer-repeater/class/class-hestia-repeater.php:761
+msgid "Note: Some icons may not be displayed here. You can see the full list of icons at %1$s."
+msgstr "주의: 일부 아이콘은 여기에 표시되지 않을 수도 있습니다. 아이콘 전체 목록은 %1$s에서 볼 수 있습니다."
+
+#: inc/customizer-repeater/class/class-hestia-repeater.php:677
+#: inc/customizer-repeater/class/class-hestia-repeater.php:740
+msgid "Icon"
+msgstr "아이콘"
+
+#: inc/customizer-repeater/class/class-hestia-repeater.php:489
+#: inc/customizer-repeater/class/class-hestia-repeater.php:605
+msgid "Delete field"
+msgstr "필드 삭제"
+
+#: inc/customizer-repeater/class/class-hestia-repeater.php:470
+#: inc/customizer-repeater/class/class-hestia-repeater.php:593
+msgid "Shortcode"
+msgstr "단축코드"
+
+#: functions.php:690
+#: inc/customizer-repeater/class/class-hestia-repeater.php:441
+#: inc/customizer-repeater/class/class-hestia-repeater.php:460
+#: inc/customizer-repeater/class/class-hestia-repeater.php:566
+#: inc/customizer-repeater/class/class-hestia-repeater.php:584
+#: inc/customizer-repeater/class/class-hestia-repeater.php:784
+#: inc/customizer-repeater/class/class-hestia-repeater.php:810
+msgid "Link"
+msgstr "링크"
+
+#: inc/customizer-repeater/class/class-hestia-repeater.php:432
+#: inc/customizer-repeater/class/class-hestia-repeater.php:451
+#: inc/customizer-repeater/class/class-hestia-repeater.php:557
+#: inc/customizer-repeater/class/class-hestia-repeater.php:575
+#: inc/features/feature-big-title-section.php:78
+msgid "Text"
+msgstr "Text"
+
+#: inc/customizer-repeater/class/class-hestia-repeater.php:423
+#: inc/customizer-repeater/class/class-hestia-repeater.php:548
+msgid "Subtitle"
+msgstr "부제목"
+
+#: inc/customizer-repeater/class/class-hestia-repeater.php:414
+#: inc/customizer-repeater/class/class-hestia-repeater.php:539
+#: inc/features/feature-big-title-section.php:60
+#: inc/typography/typography-settings.php:229
+msgid "Title"
+msgstr "타이틀"
+
+#: functions.php:678 functions.php:682
+#: inc/customizer-repeater/class/class-hestia-repeater.php:393
+#: inc/customizer-repeater/class/class-hestia-repeater.php:404
+#: inc/customizer-repeater/class/class-hestia-repeater.php:519
+#: inc/customizer-repeater/class/class-hestia-repeater.php:529
+msgid "Color"
+msgstr "색상"
+
+#: inc/customizer-repeater/class/class-hestia-repeater.php:148
+msgid "Customizer Repeater"
+msgstr "사용자 정의 하기 리피터"
+
+#: inc/customizer-repeater/class/class-hestia-repeater.php:143
+msgid "Add new field"
+msgstr "새 필드 추가"
+
+#: inc/customizer-page-editor/class/class-hestia-page-editor.php:61
+#: inc/features/feature-about-section.php:117
+msgid "About background"
+msgstr "소개하기 배경"
+
+#: inc/customizer-info/class/class-hestia-customizer-info-singleton.php:85
+msgid "WooCommerce plugin"
+msgstr "우커머스 플러그인"
+
+#. translators: %1$s is Plugin Name
+#: inc/customizer-info/class/class-hestia-customizer-info-singleton.php:84
+msgid "To have access to a shop section please install and configure %1$s."
+msgstr "상점 영역에 접근하려면 %1$s를 설치하고 환경설정 하세요."
+
+#. translators: %1$s is Plugin name
+#: inc/customizer-contact-info/class-hestia-contact-info.php:43
+msgid "In order to add a contact form to this section, you need to install the %s plugin."
+msgstr "이 영역에 컨택트 폼을 추가하려면 %s 플러그인을 설치해야 합니다."
+
+#. translators: %s is Path in plugin
+#: inc/customizer-contact-info/class-hestia-contact-info.php:38
+msgid "Settings > Pirate Forms"
+msgstr "설정 > Pirate Forms"
+
+#. translators: %s is Path in plugin wrapped
+#: inc/customizer-contact-info/class-hestia-contact-info.php:36
+msgid "You should be able to see the form on your front-page. You can configure settings from %s, in your WordPress dashboard."
+msgstr "전면 페이지에서 폼을 볼 수 있습니다. 워드프레스 관리자 화면의 %s에서 설정을 변경할 수 있습니다."
+
+#: inc/template-tags.php:1015
+msgid "Toggle Navigation"
+msgstr "내비게이션 토글"
+
+#: functions.php:674
+msgid "Button Text"
+msgstr "버튼 문구"
+
+#: functions.php:502
+msgid "Read more&hellip;"
+msgstr "더 보기&hellip;"
+
+#: functions.php:433 inc/woocommerce/functions.php:427
+msgid "View cart"
+msgstr "장바구니 보기"
+
+#: functions.php:345
+msgctxt "Roboto Slab font: on or off"
+msgid "on"
+msgstr "켜기"
+
+#: functions.php:344
+msgctxt "Roboto font: on or off"
+msgid "on"
+msgstr "켜기"
+
+#: functions.php:287
+msgid "Footer Three"
+msgstr "푸터 3"
+
+#: functions.php:286
+msgid "Footer Two"
+msgstr "푸터 2"
+
+#: functions.php:285
+msgid "Footer One"
+msgstr "푸터 1"
+
+#: functions.php:273
+msgid "Blog Subscribe Section"
+msgstr "블로그 구독하기 영역"
+
+#: functions.php:271
+msgid "Sidebar"
+msgstr "사이드바"
+
+#: functions.php:141
+msgid "Footer Menu"
+msgstr "푸터메뉴"
+
+#: functions.php:140 functions.php:778
+msgid "Primary Menu"
+msgstr "주 메뉴"
+
+#: inc/template-tags.php:809
+msgid "WordPress"
+msgstr "워드프레스"
+
+#. translators: %s is WordPress
+#: inc/template-tags.php:808
+msgid "http://wordpress.org"
+msgstr "http://wordpress.org"
+
+#. #-#-#-#-#  hestia.pot (Hestia 1.1.62)  #-#-#-#-#
+#. translators: %s is Theme name
+#. #-#-#-#-#  hestia.pot (Hestia 1.1.62)  #-#-#-#-#
+#. Theme Name of the plugin/theme
+#: inc/customizer-theme-info/class-hestia-customizer-theme-info.php:81
+#: inc/template-tags.php:803
+msgid "Hestia"
+msgstr "Hestia"
+
+#. translators: %1$s is Theme Name, %2$s is WordPress
+#: inc/template-tags.php:799
+msgid "%1$s | Powered by %2$s"
+msgstr "%1$s | Powered by %2$s"
+
+#: comments.php:59
+msgid "Comments are closed."
+msgstr "댓글이 닫혔습니다."
+
+#. translators: %s is Image sizes for attachment single page.
+#: attachment.php:74
+msgid "Size: %s"
+msgstr "크기: %s"
+
+#. translators: %1$s is Author name, %2$s is Date
+#. translators: %1$s is Author name wrapped, %2$s is Date
+#: attachment.php:20 single.php:21
+msgid "Published by %1$s on %2$s"
+msgstr "글쓴이 %1$s 날짜 %2$s"
+
+#. Author URI of the plugin/theme
+msgid "https://themeisle.com"
+msgstr "https://themeisle.com"
+
+#. Author of the plugin/theme
+msgid "ThemeIsle"
+msgstr "ThemeIsle"
+
+#. Theme URI of the plugin/theme
+msgid "https://themeisle.com/themes/hestia/"
+msgstr "https://themeisle.com/themes/hestia/"
