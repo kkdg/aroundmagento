@@ -11,3 +11,7 @@ php:
 script:
   # Run your tests here.
   - echo 'Tested'
+
+notifications:
+  email:
+    - andflyaway@naver.com
