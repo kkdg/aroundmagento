@@ -766,7 +766,7 @@ if ( ! function_exists( 'hestia_the_footer_content' ) ) :
 				<?php hestia_before_footer_widgets_trigger(); ?>
 				<div class="hestia-bottom-footer-content">
 					<?php
-//					hesta_bottom_footer_content();
+					hesta_bottom_footer_content();
 					?>
 				</div>
 				<?php hestia_after_footer_widgets_trigger(); ?>
@@ -831,7 +831,7 @@ if ( ! function_exists( 'hesta_bottom_footer_content' ) ) :
 			)
 		);
 		?>
-		<?php if ( ! empty( $hestia_general_credits ) || is_customize_preview() ) : ?>
+		<?php if ( 0 && ! empty( $hestia_general_credits ) || is_customize_preview() ) : ?>
 			<div class="copyright <?php echo esc_attr( $copyright_class ); ?>">
 				<?php echo wp_kses_post( $hestia_general_credits ); ?>
 			</div>
